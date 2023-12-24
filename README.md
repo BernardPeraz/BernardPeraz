@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi, I'm John Bernard !👋
 
-<!--
-**BernardPeraz/BernardPeraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently, I am pursuing a bachelor's degree in computer science.<br/>
+- 🌱 I'm currently learning languages that relate to software engineering.<br/>
+- 😄 Can you call me Wayne that's my nickname<br/>
+- ⚡ Be consistent with what you've started.<br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
+
+![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBernard&show_icons=true&theme=tokyonight)
+
+[![](https://visitcount.itsvg.in/api?id=JBernard10101&icon=0&color=0)](https://visitcount.itsvg.in)
+
